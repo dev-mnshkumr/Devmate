@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://devmate-admin:devmate123@cluster0.d12yb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
