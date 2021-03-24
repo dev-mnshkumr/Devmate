@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://devmate-admin:devmate123@cluster0.d12yb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "Iv1.539860a12fdd02aa",
+  "githubSecret": "22fd919fbf882d03c7f7cef904a25740d5eb95c1"
 }
