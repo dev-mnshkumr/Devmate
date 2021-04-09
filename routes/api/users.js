@@ -6,7 +6,6 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 //refer to https://flaviocopes.com/express-validate-input/
 const { check, validationResult } = require('express-validator');
-
 const User = require('../../models/User');
 
 //@route   GET api/users
